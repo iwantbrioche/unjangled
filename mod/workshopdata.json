@@ -1,0 +1,18 @@
+{
+  "Title": "No More Jangling",
+  "Description": "Removes the pearls and antlers from the Chieftain\u0027s Mask to reduce visual clutter.",
+  "ID": "iwantbread.unjangledmask",
+  "Version": "1.2",
+  "TargetGameVersion": "v1.9.15",
+  "Requirements": "moreslugcats",
+  "RequirementNames": "More Slugcats",
+  "Authors": "iwantbread",
+  "Visibility": "Public",
+  "Tags": [
+    "Items",
+    "Cosmetics"
+  ],
+  "WorkshopID": 3127115758,
+  "UploadFilesOnly": true,
+  "UploadThumbnail": false
+}
